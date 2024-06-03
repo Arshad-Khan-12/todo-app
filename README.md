@@ -8,6 +8,10 @@ A simple Todo App built with React.js to help you manage your tasks. This applic
 - Edit existing todos
 - Delete todos
 
+## Live Demo
+
+Check out the live demo of the Todo App [here]([https://your-website-url.com](https://todo-list-12-app.netlify.app/)).
+
 ## Screenshots
 
 ![image](https://github.com/Arshad-Khan-12/todo-app/assets/121614052/5bdd413b-8321-4d79-8f72-2a8204632064)
@@ -21,9 +25,7 @@ A simple Todo App built with React.js to help you manage your tasks. This applic
 - React.js
 - Tailwind CSS
 
-## Live Demo
 
-Check out the live demo of the Todo App [here]([https://your-website-url.com](https://todo-list-12-app.netlify.app/)).
 
 ## Getting Started
 
