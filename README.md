@@ -10,7 +10,9 @@ A simple Todo App built with React.js to help you manage your tasks. This applic
 
 ## Live Demo
 
-Check out the live demo of the Todo App [here]([https://your-website-url.com](https://todo-list-12-app.netlify.app/)).
+Check out the live demo of the Todo App [Click Here](https://todo-list-12-app.netlify.app/)
+
+
 
 ## Screenshots
 
